@@ -1,0 +1,26 @@
+{
+  "name": "meta-ui",
+  "version": "1.0.0",
+  "description": "React UI library",
+  "author": "czen <metaczen@gmail.com>",
+  "homepage": "https://github.com/metaczen/metaui#readme",
+  "license": "ISC",
+  "main": "lib/meta-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/metaczen/metaui.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/metaczen/metaui/issues"
+  }
+}
