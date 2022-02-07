@@ -1,7 +1,6 @@
 {
-  "name": "vite-monorepo",
+  "name": "metaui",
   "version": "1.0.0",
-  "license": "MIT",
   "scripts": {
     "dev": "yarn storybook",
     "build": "lerna run build",

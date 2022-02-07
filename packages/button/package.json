@@ -1,7 +1,7 @@
 {
   "name": "button",
   "version": "0.0.0",
-  "author": "dipsaus9",
+  "author": "czen",
   "description": "Button description",
   "main": "dist/button.es.js",
   "module": "dist/button.es.js",
