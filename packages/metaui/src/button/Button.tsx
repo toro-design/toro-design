@@ -1,6 +1,4 @@
 // src/components/button.tsx
-import * as React from "react"
-
 export interface ButtonProps {
   children: React.ReactNode
   primary?: boolean

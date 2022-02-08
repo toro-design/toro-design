@@ -18,6 +18,7 @@ export function getBaseViteConfig(
         entry: path.resolve(dirname, "src/index.ts"),
         formats: ["es"],
       },
+      outDir: "lib",
       rollupOptions: {
         external: isExternal,
       },
