@@ -1,0 +1,3 @@
+---
+"metaui": minor
+---
