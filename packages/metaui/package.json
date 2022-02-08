@@ -1,0 +1,27 @@
+{
+  "name": "metaui",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "czen <metaczen@gmail.com>",
+  "homepage": "https://github.com/meta-design-lab/meta-design#readme",
+  "license": "ISC",
+  "main": "lib/metaui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": ["lib"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meta-design-lab/meta-design.git"
+  },
+  "scripts": {
+    "build": "vite build",
+    "build:watch": "vite build --watch",
+    "lint": "eslint ./src",
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/meta-design-lab/meta-design/issues"
+  }
+}
