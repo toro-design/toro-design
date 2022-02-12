@@ -1,15 +1,20 @@
 {
   "name": "toroui",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "version": "1.0.0",
   "scripts": {
-    "dev:docs": "yarn storybook",
     "build": "lerna run build",
+    "dev:sb": "lerna run sb",
+    "start": "lerna run start",
+    "build:sb": "lerna run build-storybook",
     "build:watch": "lerna run build:watch",
     "lint": "lerna run lint",
     "test": "jest && yarn tsc",
     "test:watch": "jest --watch",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook -o docs-build",
     "tsc": "lerna run tsc",
     "postinstall": "yarn build",
     "update": "yarn upgrade --latest"
