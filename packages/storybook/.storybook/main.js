@@ -1,7 +1,7 @@
 module.exports = {
   stories: [
-    "../../metaui/src/**/*.stories.mdx",
-    "../../metaui/src/**/*.stories.@(js|jsx|ts|tsx)",
+    "../../toroui/src/**/*.stories.mdx",
+    "../../toroui/src/**/*.stories.@(js|jsx|ts|tsx)",
   ],
   addons: ["@storybook/addon-links", "@storybook/addon-essentials"],
   babel: async (options) => ({
