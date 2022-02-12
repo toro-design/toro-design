@@ -23,7 +23,7 @@ We use [Yarn](https://yarnpkg.com/) for dependency management and for the projec
 yarn build:watch
 
 ## optional
-yarn dev:docs ## this will start the documentation toro.js server and it will automatically detect the changes in the components.
+yarn dev:sb ## this will start the documentation toro.js server and it will automatically detect the changes in the components.
 
 yarn start:sb ## this will start the storybook server for a faster development and testing.
 ```
@@ -36,7 +36,7 @@ yarn start:sb ## this will start the storybook server for a faster development a
 yarn build:toroui
 
 ## Start the toro.js documentation dev server
-yarn dev:docs
+yarn dev:sb
 ```
 
 - You also can use Storybook to test the components and faster development:

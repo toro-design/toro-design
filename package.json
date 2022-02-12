@@ -9,7 +9,7 @@
   "scripts": {
     "build": "lerna run build",
     "dev:sb": "lerna run sb",
-    "start": "lerna run start",
+    "start:sb": "lerna run start",
     "build:sb": "lerna run build-storybook",
     "build:watch": "lerna run build:watch",
     "lint": "lerna run lint",
