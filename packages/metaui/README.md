@@ -1,11 +1,11 @@
-# `metaui`
+# `toroui`
 
 > TODO: description
 
 ## Usage
 
 ```
-const metaui = require('metaui');
+const toroui = require('toroui');
 
 // TODO: DEMONSTRATE API
 ```

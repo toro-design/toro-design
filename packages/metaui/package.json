@@ -1,12 +1,12 @@
 {
-  "name": "metaui",
+  "name": "toroui",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "czen <metaczen@gmail.com>",
-  "homepage": "https://github.com/meta-design-lab/meta-design#readme",
+  "homepage": "https://github.com/toro-design/toro-design#readme",
   "license": "ISC",
-  "main": "lib/metaui.js",
-  "module": "lib/metaui.es.js",
+  "main": "lib/toroui.js",
+  "module": "lib/toroui.es.js",
   "directories": {
     "lib": "lib"
   },
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meta-design-lab/meta-design.git"
+    "url": "git+https://github.com/toro-design/toro-design.git"
   },
   "scripts": {
     "build": "vite build",
@@ -25,6 +25,6 @@
     "tsc": "tsc"
   },
   "bugs": {
-    "url": "https://github.com/meta-design-lab/meta-design/issues"
+    "url": "https://github.com/toro-design/toro-design/issues"
   }
 }

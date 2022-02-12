@@ -1,3 +1,3 @@
 ---
-"metaui": minor
+"toroui": minor
 ---

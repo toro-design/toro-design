@@ -1,8 +1,8 @@
 {
-  "name": "metaui",
+  "name": "toroui",
   "version": "1.0.0",
   "scripts": {
-    "dev": "yarn storybook",
+    "dev:docs": "yarn storybook",
     "build": "lerna run build",
     "build:watch": "lerna run build:watch",
     "lint": "lerna run lint",
